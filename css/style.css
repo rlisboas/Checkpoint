@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital,wght@1,500&display=swap');
+
+*{
+    margin: 10px;
+    padding: 0px;
+}
+  
+
+  
+#titulo{
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 200;
+    background-color: black;    
+    padding: 20px;
+}
+
+#resumo{
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;  
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;  
+    font-style: oblique;
+    background-color: lavender;
+}
+
+#resumo2{
+    padding: 20px;
+    text-align: center;  
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;  
+    font-style: oblique;
+    background-color: lavender;
+    width: 500px;
+}
+  
+#lista{
+    text-align: center;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    font-size: 16px;    
+    font-style: oblique;   
+    margin: 20px 0px;
+    background-color: lavender;
+}
+
+#corpo{
+    background-image: url(../imagens/11.12-BH.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+  
+#principal{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+    margin: 15px;
+    border-style: solid;
+}
+  
+.subtitulo{
+    color: black;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 62px;
+    font-style: oblique;
+    font-weight: 200;
+    padding: 10px;
+}
+
+#rodape{
+    text-align: center;
+    padding: 20px;
+}
+  
+.icones{
+    border: 0px;
+    margin: 20px;
+    width: 70px;
+    height: 70px;
+}
